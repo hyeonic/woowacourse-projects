@@ -1,6 +1,6 @@
 # 🏃🏻 woowacourse-projects
 
-![](/images/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-4%EA%B8%B0-%EB%AA%A8%EC%A7%91%EA%B3%B5%EA%B3%A0.jpeg)
+<center><img src="/images/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-4%EA%B8%B0-%EB%AA%A8%EC%A7%91%EA%B3%B5%EA%B3%A0.jpeg" width="300" height="400"></center>
 
 [우아한테크코스](https://woowacourse.github.io/)에서 [매트](https://github.com/hyeonic)로 활동하며 학습한 내용을 기록하기 위한 Repository 입니다.
 
